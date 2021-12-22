@@ -4,5 +4,6 @@ int main()
 {
     cin >> n;
     cout << 1;
+    vjhvhj
     return 0;
 } 
